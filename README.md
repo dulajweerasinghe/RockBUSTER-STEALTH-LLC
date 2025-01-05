@@ -16,4 +16,4 @@ The analysis shows various data-related information concerning the geological di
 ### Data Set 
 Data from Rockbuster relational database system which contains data about Customer, Films, rental, payments, stores, staff, inventory
 
-### TABLEAU LINK- Task 3.10 Final PPT | Tableau Public 
+### TABLEAU LINK- https://public.tableau.com/app/profile/dulaj.weerasinghe/viz/Task3_10FinalPPT/Rockbuster?publish=yes
